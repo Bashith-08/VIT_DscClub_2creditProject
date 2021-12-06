@@ -21,3 +21,7 @@ OBJECTIVES :
 ●	Use data visualization tools to understand and analyze the data better.
 ●	Feature selection is the key here - not all 66 features are relevant to the problem so select only those that you need to train your model. 
 ●	Data Science is not about building models, it is about solving problems  by using / analyzing data.
+
+CONCLUSION :
+        From the above data analysis, we can understand that “Unknown Medium Bird” had caused more damage to the aircraft i.e, 4243 times and the second-highest bird that causes damage is “Gull” i.e, 1095 times. The “Wing or Rotor” is the part that is most prone to aircraft damage i.e, 4180 times in these wildlife strikes.
+
